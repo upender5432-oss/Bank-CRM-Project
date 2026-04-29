@@ -37,7 +37,10 @@ It helps stakeholders make data-driven decisions by providing clear insights int
 
 ## 📷 Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here)
+<img width="1374" height="791" alt="image" src="https://github.com/user-attachments/assets/a5c028e4-ff00-4a42-b92c-653a7cf085c1" />
+<img width="1286" height="797" alt="image" src="https://github.com/user-attachments/assets/2584f5b9-b7f9-4022-b9d1-c9fa69c5c512" />
+<img width="1292" height="817" alt="image" src="https://github.com/user-attachments/assets/3f7e16c1-e12e-42a6-8822-e802792ba6ef" />
+
 
 ---
 
@@ -83,7 +86,7 @@ This dashboard can help banks:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**PRINCE KUMAR SINGH**
 
 ---
 
